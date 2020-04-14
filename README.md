@@ -1,4 +1,4 @@
-# moosic
+# moosic (python3 -m http.server 3000)
 
 This is a music website.
 
