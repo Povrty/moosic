@@ -1,0 +1,7 @@
+.songList {
+    text-align: center;
+}
+
+.songList > iframe {
+    padding: 15px;
+}
