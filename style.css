@@ -1,11 +1,13 @@
 body {
-    background-color: lightblue;
+    background-color: #2a2a2e;
 }
 footer { 
-  display: block;
-  position:center;
+    display: block;
+    position: center;
+    color: white;
     bottom:0px;
     width: 100%
+
 }
 .songList {
     text-align: center;
