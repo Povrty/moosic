@@ -1,5 +1,8 @@
 body {
     background-color: #2a2a2e;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    height: 100%;
 }
 footer { 
     display: block;
@@ -11,8 +14,15 @@ footer {
 }
 .songList {
     text-align: center;
+    overflow-y: scroll;
+    height: 800px;
+    width: 95%;
 }
 
 .songList > iframe {
     padding: 15px;
+}
+
+#navbar-logo {
+    width: 5%;
 }
